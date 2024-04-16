@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey there, I'm Fabian 👋
 
-<!--
-**expensne/expensne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as an R&D engineer at Fraunhofer IIS in the field of medical data analysis.
+- 🌱 I’m currently learning TS/JS/Vue
+- 📫 How to reach me: see <a href="https://www.fabiangrosch.de/contact/">fabiangrosch.de/contact</a>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expensne)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<a href="https://www.linkedin.com/in/fabian-grosch/">
+  <img align="left" alt="Fabian Grosch's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>

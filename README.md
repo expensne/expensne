@@ -1,6 +1,6 @@
 ### Hey there, I'm Fabian 👋
 
-- 🔭 I’m currently working as SW engineer at DATEV eG in Nuremberg
+- 🔭 I’m currently working as a SW engineer at DATEV eG in Nuremberg
 - 🌱 I’m currently learning TS/JS/Vue/Angular
 - 📫 How to reach me: see <a href="https://www.fabiangrosch.de/contact/">fabiangrosch.de/contact</a>
 

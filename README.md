@@ -1,7 +1,7 @@
 ### Hey there, I'm Fabian 👋
 
-- 🔭 I’m currently working as an R&D engineer at Fraunhofer IIS in the field of medical data analysis
-- 🌱 I’m currently learning TS/JS/Vue
+- 🔭 I’m currently working as SW engineer at DATEV eG in Nuremberg
+- 🌱 I’m currently learning TS/JS/Vue/Angular
 - 📫 How to reach me: see <a href="https://www.fabiangrosch.de/contact/">fabiangrosch.de/contact</a>
 
 <br/>
